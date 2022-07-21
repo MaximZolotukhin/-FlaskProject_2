@@ -132,7 +132,7 @@ teachers = [
                  "watch films with subtitles. We analyze everything on the shelves :) In parallel, of course, "
                  "we study the basics of grammar and the correct delivery of sentences :) All the materials are "
                  "provided by me. I promise you that you will talk from the first first lesson :)",
-        "picture": "https://i.pravatar.cc/300?img=29",
+        "picture": "img/teacher_5.jpg",
         "rating": 4.3,
         "price": 900,
         "goals": ["travel"],
