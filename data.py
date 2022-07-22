@@ -164,7 +164,7 @@ teachers = [
                  "that helps my students understand more about the language and its features. A degree in history "
                  "helps me a lot to create such an intellectual environment in the classroom.For each student, "
                  "I develop an individual curriculum that depends on its goals and needs.",
-        "picture": "https://i.pravatar.cc/300?img=30",
+        "picture": "img/teacher_6.jpg",
         "rating": 3.9,
         "price": 800,
         "goals": ["travel", "study"],
@@ -200,7 +200,7 @@ teachers = [
                  "understand how hard it can be to learn another language. That's why my teaching style is fun, "
                  "constructive & easy-going. Lessons will be tailored to meet your needs & goals. Through my lessons, "
                  "you will gain the confidence to speak English in your daily life.",
-        "picture": "https://i.pravatar.cc/300?img=32",
+        "picture": "img/teacher_7.jpg",
         "rating": 4.5,
         "price": 1200,
         "goals": ["travel", "relocate", "study"],
@@ -231,7 +231,7 @@ teachers = [
                  "of practice. Our goal is to achieve maximum involvement and focus on the subject. Schools trained "
                  "us to be very passive. Sit quietly by yourself, be lectured to, just consume information. THAT is "
                  "not how we are going to learn English.",
-        "picture": "https://i.pravatar.cc/300?img=33",
+        "picture": "img/teacher_8.jpg",
         "rating": 4.5,
         "price": 1100,
         "goals": ["study"],
